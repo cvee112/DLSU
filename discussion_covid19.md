@@ -1,7 +1,7 @@
 # GEWORLD Discussion
 
-* What were the 4 major shocks in the 21st global economy which were cited in the video?
-  
-  The four major shocks were:
+1. What were the 4 major shocks in the 21st global economy which were cited in the video?
 
-* What were governments' economic response to these shocks?
+> The four major shocks were (1) the digital economy, (2) the rise of China, (3) the global financial crisis, and (4) the COVID-19 pandemic. The first shock concerns the rise of Big Tech and the increasing adoption of digital technology in economic activity. This looks like the use of social media by both MNCs and SMEs for marketing and sales, but it also looks like the use of digital information for high-level corporate decision-making (this is a non-exhaustive list). The second shock concerns the challenge to Western hegemony posed by the rise of China as a superpower. This has led to conflict in recent years, as seen in the US-China trade war, but even without this conflict, the increasing economic and political influence of China in global affairs is worth noting by itself. The third shock concerns the financial crisis of 2007-2008, which started in the US but eventually spread worldwide because it is, after all, a "global economy." The last shock is the most recent. The pandemic has led to economic downturns, massive layoffs, and protectionist policies that harm the freemarketeer's cause, but it has also forced businesses to "innovate" in how they operate with respect to labor, manufacturing, and sales. COVID-19 has clearly wrecked the global economy.
+
+2. What were governments' economic response to these shocks?
